@@ -15,7 +15,7 @@ science in sjtu.
 
 <!-- COURSES -->
 ## Courses
-* todo
+* Computer Networks
 * 
 <!-- USAGE -->
 ## Usage
