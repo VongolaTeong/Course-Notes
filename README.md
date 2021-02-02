@@ -17,6 +17,7 @@ science in sjtu.
 ## Courses
 * Computer Networks
 * Database
+* Algorithm and Complexity
 <!-- USAGE -->
 ## Usage
 The notes are mind maps written by me, they give you a 
