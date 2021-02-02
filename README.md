@@ -21,6 +21,7 @@ science in sjtu.
 * Computer Architecture
 * Computer Graphics
 * Computer Organization
+* Operating System
 <!-- USAGE -->
 ## Usage
 The notes are mind maps written by me, they give you a 
