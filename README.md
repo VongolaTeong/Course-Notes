@@ -19,6 +19,8 @@ science in sjtu.
 * Database
 * Algorithm and Complexity
 * Computer Architecture
+* Computer Graphics
+* 
 <!-- USAGE -->
 ## Usage
 The notes are mind maps written by me, they give you a 
