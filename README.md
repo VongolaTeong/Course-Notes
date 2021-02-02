@@ -20,7 +20,7 @@ science in sjtu.
 * Algorithm and Complexity
 * Computer Architecture
 * Computer Graphics
-* 
+* Computer Organization
 <!-- USAGE -->
 ## Usage
 The notes are mind maps written by me, they give you a 
