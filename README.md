@@ -18,6 +18,7 @@ science in sjtu.
 * Computer Networks
 * Database
 * Algorithm and Complexity
+* Computer Architecture
 <!-- USAGE -->
 ## Usage
 The notes are mind maps written by me, they give you a 
